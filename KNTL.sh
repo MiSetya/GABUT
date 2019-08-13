@@ -16,7 +16,7 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 
 
-#Coded By : BalBaL.X
+#Recoded By : MiSetya
 #Tool Unfaedah :v
 
 clear
@@ -24,27 +24,27 @@ clear
             echo $pur"  ╦ ╦╔╗╔╔═╗╔═╗╔═╗╔╦╗╔═╗╦ ╦   "      
             echo $pur"  ║ ║║║║╠╣ ╠═╣║╣  ║║╠═╣╠═╣"
             echo $pur"  ╚═╝╝╚╝╚  ╩ ╩╚═╝═╩╝╩ ╩╩ ╩"
-            echo $mer"  ×××Tool Unfaedah | BalBaL××× $st"
+            echo $mer"  ×××Tool Unfaedah | MiSetya××× $st"
 
 lagi=1
 while [ $lagi -lt 6 ];
 do
 echo""
-echo $cy"1. Sadap WA :v ";
+echo $cy"1. Sadap WA work ni ajg :v ";
 echo $pur"====================]" 
 echo $cy"2. Hack Satelit";
 echo $pur"====================]" 
 echo $cy"3. Hack Listrik";
 echo $pur"====================]" 
-echo $cy"4. Ngepet Onlen";
+echo $cy"4. Ngepet Online";
 echo $pur"====================]" 
-echo $cy"5. Ngentod Onlen";
+echo $cy"5. Ngentod Online";
 echo $pur"====================]" 
-echo $cy"6. santet Onlen";
+echo $cy"6. Santet Online";
 echo $pur"====================]"        
 echo $i"7. EXIT $st";
 echo ""
-echo    $mer"╭─Pilih Dong Ajg👊😎 $st " 
+echo    $mer"╭─Pilih Nomor Berapa Ajg!!? $st " 
 read -p "╰─•>  " pil; 
 
 case $pil in
@@ -60,35 +60,35 @@ echo $i "
 
 "
 echo ""
-echo -n $cy"Masukan Nomer Target :"
+echo -n $cy"Ini Isi Nomor Target:"
 read tr
 echo "============================" | lolcat
-echo -n $cy"masukin nomer lu Tod : "
+echo -n $cy"Nah ini isi nomor lu : "
 read lu
 clear
-echo "Sedang Menunggu Verifikasi ke nomer $tr" | lolcat
+echo "Sabar ajg lagi nyadap ini $tr" | lolcat
 echo ""
-echo $mer " Tunggu Sekitar 3menit $st"
+echo $mer " Tunggu Sekitar 3menit ya tod $st"
 echo ""
 sleep 50
-echo $cy " Sedang Mengambil Chat Terbaru cuk "
+echo $cy " Sedang Mengambil Chat Terbaru tod "
 sleep 4
-echo $bi " Chat Terbaru Dengan 'Rizky' "
+echo $bi " Chat Terbaru Dengan 'Dimas' "
 echo $cy  " <Kemarin> "
 echo ""
-echo $pu " Rizky: Oeeey $cy[9:22]"
-echo $i " Me : Apaan Ki? $cy[9:22]"
-echo $pu " Rizky : Besok Masuk Jam Brp? $cy[9:23]"
+echo $pu " Dimas: woy $cy[9:22]"
+echo $i " Me : Apaan Dim? $cy[9:22]"
+echo $pu " Dimas : Besok Masuk Jam Brp? $cy[9:23]"
 echo $i " Me : 7, KuyLah Cabut, Kita Mabok Eaa $cy[9:24]"
-echo $pu " Rizky : KuyLah, Cari Yang Tempat Sepi Bsk $cy[9:25]"
+echo $pu " Dimas : KuyLah, Cari Tempat Yang Sepi Bsk $cy[9:25]"
 echo $i " Me : Ashiiiaaap, Bsk Gw Samper $cy[9:26]"
-echo $pu " Rizky : Oke Oke $cy[9:36] "
-echo $pu " Rizky : <img-476752782817.jpg> $cy[15:6]"
-echo $pu " Rizky : Oeeey Lu Ikut Itu Gak? Gw Udh Isi BrowsurNya :v $cy[15:6]"
-echo $pu " Rizky : Asw Malah Off, Oeeeey $cy[15:7]"
-echo $pu " Rizky : p $cy[15:7]"
-echo $pu " Rizky : p $cy[15:7]"
-echo $pu " Rizky : p $cy[15:7]"
+echo $pu " Dimas : Oke Oke $cy[9:36] "
+echo $pu " Dimas : <img-476752782817.jpg> $cy[15:6]"
+echo $pu " Dimas : Woy Lu Ikut Itu Gak? Gw Udh Isi BrosurNya :v $cy[15:6]"
+echo $pu " Dimas : Asw Malah Off, Woy ngentod $cy[15:7]"
+echo $pu " Dimas : p $cy[15:7]"
+echo $pu " Dimas : p $cy[15:7]"
+echo $pu " Dimas : p $cy[15:7]"
 exit
 ;;
 
@@ -117,10 +117,10 @@ sh 6.sh
 exit
 ;;
 
-7) echo $cy " Babai Su😗"
+7) echo $cy " Dadah anak SETAN"
 exit
 ;;
-*) echo " CARI YANG ADA AJA Sayank😘 " | lolcat
+*) echo " GUD KAN GABUTNYA " | lolcat
 esac
 done
 done
