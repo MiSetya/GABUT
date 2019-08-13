@@ -18,9 +18,9 @@ echo $pur " /   \ "
 echo $pur " ||  ||"
 echo $pur " ||  ||      'Mmpsh Ahhhhh..' "
 echo $pur " ||  || _____ /"
-echo $pur " | \ ||(___  )"
+echo $pur " | \ ||(___  )    'Enak Mass..' "
 echo $pur "// / \|_)o (  )"
-echo $pur "\\ ///|)\_(    )"
+echo $pur "\\ ///|)\_(    )  'Ahhh... Uhh..' "
 echo $pur "||   |\ )(    )"
 echo $pur "||   ) \/(____)_      ___"
 echo $pur " ||   |\___/     \---/ \.\."
@@ -29,16 +29,16 @@ echo $pur " ||   | \../ \~~~-./   ./__ _"
 echo $pur " \\  /           \.______  ( ("
 echo $pur " ((___ooO                \._\_\ "
 echo ""
-echo -n $cy"Masukan Nama Agan : "
+echo -n $cy"Masukan Nama Lu : "
 read lu
 echo $pur"<•===========================•>"
 echo -n $cy"Jenis Gaya *contoh : Mengangkang* : "
 read Gaya
 echo $pur"<•===========================•>"
-echo -n $cy"Masukkan Nama Si Korban Yg Mau Di Entot : "
+echo -n $cy"Masukkan Nama Si Korban Yg Mau Di Ewe : "
 read Nama
 echo $pur"<•===========================•>"
-echo -n $cy"Masukan Alamat Tempat Untuk Skidipap Nanti : "
+echo -n $cy"Masukan Alamat Tempat Untuk Ewe Nanti : "
 read Alamat
 echo $pur"<•===========================•>"
 echo -n $cy"Mau Masukin Dari Atas Atau Dari Bawah? : "
@@ -47,7 +47,7 @@ echo $pur"<•===========================•>"
 echo -n $cy"Mau Punya Anak Berapa? : "
 read Anak
 echo $pur"<•===========================•>"
-echo $cy" Dosa Tanggung Situ Sendiri " | lolcat
+echo $cy" Dosa Tanggung  Sendiri Ea Ajg!" | lolcat
 clear
 echo "load.." | lolcat
 echo "ahhh Ahhh Ahhhh" | lolcat
@@ -71,7 +71,7 @@ echo
 echo
 sleep 3
 echo "|=====================================|" | lolcat
-echo "|       Ngentodd Onlen Sukses!!       |" | lolcat
+echo "|       Ngewe Online Sukses!!       |" | lolcat
 echo "|=====================================|" | lolcat
 echo 
 echo
@@ -80,7 +80,7 @@ echo $cy"Pake Gaya $Gaya Katanya"
 echo ""
 echo $pur"<•===========================•>"
 echo ""
-echo "Dosa Tanggung Situ Sendiri " | lolcat
+echo "Dosa Tanggung  Sendiri Ajg!!" | lolcat
 exit
 ;;
 done
