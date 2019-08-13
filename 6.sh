@@ -26,30 +26,30 @@ echo $pur"<•===========================•>"
 echo -n $cy"Mau Nyantet Di Bagian Mana?: "
 read b
 echo $pur"<•===========================•>" 
-echo -n $cy"mau senjata apa? golok? gergaji? piso?: "
+echo -n $cy"mau senjata apa? golok? gergaji? pisau?: "
 read s
 echo $pur"<•===========================•>"
-echo -n $pur" Please push Enter To Konfirm "
+echo -n $pur" Enter untuk memulai santet "
 read e
 clear
 echo $l"Target Dengan Nama $t Sedang Di santet"
 sleep 10
-echo $l"Bentar Cuk Si $t lagi di tusuk Pake $s di atas $b nya"
+echo $l"Bentar tod Si $t lagi di tusuk Pake $s di atas $b nya"
 echo""
 sleep 10
 echo $l"Ohh Nampaknya Si $t Kesakitan Pada Bagian $b"
 echo ""
 sleep 7
-echo $l"Njir Cuk Dia Kejang Kejang"
+echo $l"Njir Dia Kejang Kejang"
 sleep 9
-echo $l"Anjir Klenger Dia Cuk Awokwokwok"
+echo $l"Anjir Klenger Dia Awokwokwok"
 sleep 8
-echo $l"Udhan Cuk, Ga Tega Goblok :v "
+echo $l"Udhan Tod, Ga Tega Goblok :v "
 sleep 4
 echo ""
-echo $i" Sukses!! Btw Lu Ngelayat Sono Cuk Ke Rumah Si $t, Kasian Cuk, Siapa Tau Lu Dapet Makanan h3h3"
+echo $i" Sukses!! Btw Lu Ngelayat Sana Ke Rumah Si $t, Kasian Cuk, Siapa Tau Lu Dapet Makanan h3h3"
  echo""
  echo""
-echo $cy "DOSA TANGGUNG SENDIRI ya JINX"
+echo $cy "DOSA TANGGUNG SENDIRI TOD!1!1!"
 echo ""
 exit
