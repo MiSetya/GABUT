@@ -19,12 +19,12 @@ echo $pur"     @/      \_"
 echo $pur"    (/ /    \ \)"
 echo $pur"     WW\----/WW"
 echo ""
-echo -n $cy"Masukkan Nama Daerah Ngepet Kailan : "
+echo -n $cy"Masukkan Nama Daerah Ngepet Kalian : "
 read Daerah
 echo -n $cy"Masukkan Jumlah Target Uang : "
 read uang
 echo
-echo -n $cy"Masukkan No Rek Kamu : "
+echo -n $cy"Masukkan No Rek Lu : "
 read norek
 echo -n $cy"Masukkan Nama Rekening : "
 read nama
@@ -35,7 +35,7 @@ echo "..." | lolcat
 echo "...." | lolcat
 echo "......." | lolcat
 echo "..........." | lolcat
-echo "................. SUCSES/100%" | lolcat
+echo "................. SUKSES/100%" | lolcat
 echo "wait.............." | lolcat 
 clear
 sleep 3
@@ -44,6 +44,6 @@ echo "| TRANSAKSI Hasil Ngepet Onlen SUKSES!|" | lolcat
 echo "|=====================================|" | lolcat
 echo 
 echo "$nama, Uang sejumlah $uang"
-echo "Telah sukses di Transfer ke Nomer Rek Kmu, Silakan Di Cek Kembali" | lolcat
+echo "Telah sukses di Transfer ke Nomer Rek Lu, Silakan Di Cek Kembali" | lolcat
 
-echo " Cari Duit Yang Halal Dong Boedjank!1!1" | lolcat
+echo " Cari Duit Yang Halal GOBLOK Jangan Ngepet BABI!!" | lolcat
