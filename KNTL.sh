@@ -38,7 +38,7 @@ echo $cy"3. Hack Listrik";
 echo $pur"====================]" 
 echo $cy"4. Ngepet Online";
 echo $pur"====================]" 
-echo $cy"5. Ngentod Online";
+echo $cy"5. Ngewe Online";
 echo $pur"====================]" 
 echo $cy"6. Santet Online";
 echo $pur"====================]"        
