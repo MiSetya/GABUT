@@ -12,7 +12,7 @@
 echo $pur"     ___"
 echo $pur"    //  7"
 echo $pur"   (_/_/\ "
-echo $pur"    \    \ $me Hack Satelit Eaa gayn $st"
+echo $pur"    \    \ $me Hack Satelit Uwaww Gegeh $st"
 echo $pur"     \    \ "
 echo $pur"     _\    \__"
 echo $pur"    (   \    )"
@@ -29,73 +29,73 @@ echo $cy"3. indostar";
 echo $cy"4. Telkom-1";
 echo $cy"5. Telkom-3S";
 echo ""
-echo $mer"╭─Pilih Dong Ajg👊😎 $st " 
+echo $mer"╭─Pilih Tod satelitnya $st " 
 read -p "╰─•>  " pil; 
 case $pil in
 1) clear
-echo $me" Sedang Proses Kimak Sabar "
+echo $me" Sedang Proses Ajg Sabar "
 echo $pu" Tunggu 2 menitan ya Ajg "
 sleep 25
 echo $cy"[]=====================[]"
 echo $cy"||  $ku Tergeser 23° LT   $cy||"
 echo $cy"[]=====================[]"
 echo ""
-echo $mer "Terbang Ke Atas Kalo Mau Liat Cuk$st"
+echo $mer "Terbang Ke Atas Kalo Mau Liat Satelitnya TOD!$st"
 echo ""
 exit
 
 ;;
 2) clear
-echo $me" Sedang Proses Kimak Sabar "
+echo $me" Sedang Proses Ajg Sabar "
 echo $pu" Tunggu 2 menitan ya Ajg "
 sleep 25
 echo $cy"[]=====================[]"
 echo $cy"||  $ku Tergeser 33° BT   $cy||"
 echo $cy"[]=====================[]"
 echo ""
-echo $mer "Terbang Ke Atas Kalo Mau Liat Cuk$st"
+echo $mer "Terbang Ke Atas Kalo Mau Liat TOD!$st"
 echo ""
 exit
 
 ;;
 3) clear
-echo $me" Sedang Proses Kimak Sabar "
+echo $me" Sedang Proses Ajg Sabar "
 echo $pu" Tunggu 2 menitan ya Ajg "
 sleep 25
 echo $cy"[]=====================[]"
 echo $cy"||  $ku Tergeser 40° LT   $cy||"
 echo $cy"[]=====================[]"
 echo ""
-echo $mer "Terbang Ke Atas Kalo Mau Liat Cuk$st"
+echo $mer "Terbang Ke Atas Kalo Mau Liat TOD!$st"
 echo ""
 exit
 
 ;;
 4) clear
-echo $me" Sedang Proses Kimak Sabar "
+echo $me" Sedang Proses Ajg Sabar "
 echo $pu" Tunggu 2 menitan ya Ajg "
 sleep 25
 echo $cy"[]=====================[]"
 echo $cy"||  $ku Tergeser 20° Lu   $cy||"
 echo $cy"[]=====================[]"
 echo ""
-echo $mer "Terbang Ke Atas Kalo Mau Liat Cuk$st"
+echo $mer "Terbang Ke Atas Kalo Mau Liat TOD!$st"
 echo ""
 exit
 ;;
 5) clear
-echo $me" Sedang Proses Kimak Sabar "
+echo $me" Sedang Proses Ajg Sabar "
 echo $pu" Tunggu 2 menitan ya Ajg "
 sleep 25
 echo $cy"[]=====================[]"
 echo $cy"||  $ku Tergeser 41° LB   $cy||"
 echo $cy"[]=====================[]"
 echo ""
-echo $mer "Terbang Ke Atas Kalo Mau Liat Cuk$st"
+echo $mer "Terbang Ke Atas Kalo Mau Liat TOD!$st"
 echo ""
 exit
 ;;
-*) echo " CARI YANG ADA AJA Sayank😘 " | lolcat
+*) echo " GUD KAN GABUTNYA " | lolcat
 esac
 done
 done
