@@ -74,7 +74,7 @@ sleep 50
 echo $cy " Sedang Mengambil Chat Terbaru tod "
 sleep 4
 echo $bi " Chat Terbaru Dengan 'Dimas' "
-echo $cy  " <Hari ini> "
+echo $cy  " <Kemarin> "
 echo ""
 echo $pu " Dimas: woy $cy[09:22]"
 echo $i " Me : Apaan Dim? $cy[09:22]"
